@@ -25,35 +25,35 @@ const App = () => {
           <Link
             to={`https://github.com/`}
             target='blank'
-            className='bg-[#333333] w-full h-10 rounded-sm p-2'
+            className='bg-[#333333] w-full h-10 rounded-sm p-2 transition-colors duration-100 hover:bg-[#298711]'
           >
             GitHub
           </Link>
           <Link
             to={`https://www.frontendmentor.io/`}
             target='blank'
-            className='bg-[#333333] w-full h-10 rounded-sm p-2'
+            className='bg-[#333333] w-full h-10 rounded-sm p-2 transition-colors duration-100 hover:bg-[#298711]'
           >
             Frontend Mentor
           </Link>
           <Link
             to={`https://www.linkedin.com`}
             target='blank'
-            className='bg-[#333333] w-full h-10 rounded-sm p-2'
+            className='bg-[#333333] w-full h-10 rounded-sm p-2 transition-colors duration-100 hover:bg-[#298711]'
           >
             LinkedIn
           </Link>
           <Link
             to={`https://x.com`}
             target='blank'
-            className='bg-[#333333] w-full h-10 rounded-sm p-2'
+            className='bg-[#333333] w-full h-10 rounded-sm p-2 transition-colors duration-100 hover:bg-[#298711]'
           >
             Twitter
           </Link>
           <Link
             to={`https://www.instagram.com`}
             target='blank'
-            className='bg-[#333333] w-full h-10 rounded-sm p-2'
+            className='bg-[#333333] w-full h-10 rounded-sm p-2 transition-colors duration-100 hover:bg-[#298711]'
           >
             Instagram
           </Link>
