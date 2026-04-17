@@ -21,7 +21,7 @@ const App = () => {
         </div>
         {/* links are here */}
         <div className='flex flex-col justify-center items-center gap-y-3 text-center'>
-          <p>"Front-end developer and avid reader."</p>
+          <p>{'"Front-end developer and avid reader."'}</p>
           <Link
             to={`https://github.com/`}
             target='blank'
